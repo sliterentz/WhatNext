@@ -2,9 +2,7 @@
 
 > Nuxt.js is a framework for building Universal Vue.js Applications.
 
-> _[Nuxt.js - nuxtjs.org](https://nuxtjs.org)_
-
-![arkit](./arkit.svg?sanitize=true)
+> _[Nuxt.js - nuxtjs.org](https://nuxtjs.org)
 
 ## Setup
 
